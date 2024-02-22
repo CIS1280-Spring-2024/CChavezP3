@@ -72,6 +72,7 @@
             txtOutput.Location = new Point(106, 504);
             txtOutput.Multiline = true;
             txtOutput.Name = "txtOutput";
+            txtOutput.ReadOnly = true;
             txtOutput.Size = new Size(470, 110);
             txtOutput.TabIndex = 2;
             // 
